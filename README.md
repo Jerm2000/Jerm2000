@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently learning the data science process by practicing concepts of data wrangling and visualization in both Python and R. I have previously worked with HTML/CSS and JavaScript to make some simple web apps.
+I'm currently learning the data science process by practicing concepts of data wrangling and visualization in both Python and R. I have previously worked with HTML/CSS and JavaScript to make web apps both as school projects and for personal use.
 
 <!--
 **Jerm2000/Jerm2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
